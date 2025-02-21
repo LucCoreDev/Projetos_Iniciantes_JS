@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #111;
+  color: white;
+  font-size: 4rem;
+  font-family: monospace;
+  transition: background-color 0,5s, color 0,5s;
+}

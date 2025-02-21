@@ -1,0 +1,42 @@
+body{
+  background-color: beige;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.pesquisa, .add{
+  width: 400px;
+  height: 100px;
+  background-color: #90e0ef;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pesquisa{
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+.add{
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  gap: 10px;
+}
+.lista{
+  width: 400px;
+  height: 400px;
+  background-color: #caf0f8;
+}
+input[type = "text"]{
+  width: 200px;
+  border: black solid 2px;
+}
+input[type = "submit"]{
+  width: 100px;
+  border: black solid;
+  background: linear-gradient(to right, rgb(42, 42, 72), green);
+}
