@@ -3,7 +3,7 @@ Este repositório contém alguns projetos básicos desenvolvidos com JavaScript,
 
 ## 🚀 Projetos  
 
-### **[⏰ Relógio Digital](https://luccoredev.github.io/Projetos_Iniciantes_JS/relogio-digital/)**  
+### **[⏰ Relógio Digital](https://luccoredev.github.io/Projetos_Iniciantes_JS/Relogio_Digital/)**  
 Um relógio digital que exibe as horas, minutos e segundos em tempo real. Além disso, possui um **modo noturno**, que é ativado automaticamente entre **18h e 6h**.  
 
 #### 🛠️ O que aprendi:  
@@ -13,7 +13,7 @@ Um relógio digital que exibe as horas, minutos e segundos em tempo real. Além 
 
 ---
 
-### **[🛒 Lista de Compra Inteligente](https://luccoredev.github.io/Projetos_Iniciantes_JS/lista-compra-inteligente/)**  
+### **[🛒 Lista de Compra Inteligente](https://luccoredev.github.io/Projetos_Iniciantes_JS/Lista_de_Compra_Inteligente/)**  
 Uma lista onde é possível **adicionar, deletar e pesquisar** itens. Mesmo ao atualizar a página, os itens continuam armazenados.  
 
 #### 🛠️ O que aprendi:  
@@ -23,7 +23,7 @@ Uma lista onde é possível **adicionar, deletar e pesquisar** itens. Mesmo ao a
 
 ---
 
-### **[📚 Catálogo de Filme e Livros](https://luccoredev.github.io/Projetos_Iniciantes_JS/catalogo-filme-livros/)**  
+### **[📚 Catálogo de Filme e Livros](https://luccoredev.github.io/Projetos_Iniciantes_JS/Catálogo_de_Filme_e_Livros/)**  
 Um catálogo onde é possível adicionar **cards** contendo o **título, ano e imagem** de um filme ou livro.  
 
 #### 🛠️ O que aprendi:  
